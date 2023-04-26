@@ -64,8 +64,8 @@ export const feedback = [
     id: "feedback-3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    name: "cornelius Emanikor",
+    title: "Founder CEO",
     img: people03,
   },
 ];
